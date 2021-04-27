@@ -2,6 +2,8 @@ import { AppProps } from 'next/app'
 import Head from 'next/head'
 
 import GlobalStyles from 'styles/global'
+import 'styles/sass/critical.scss'
+import 'styles/sass/main.scss'
 
 function App({ Component, pageProps }: AppProps) {
   return (
