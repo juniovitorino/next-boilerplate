@@ -21,8 +21,7 @@
     "src/**/*": [
       "yarn lint --fix",
       "yarn test --findRelatedTests --bail"
-    ]
-  },
+    ]  },
   "dependencies": {
     "next": "10.1.3",
     "react": "17.0.2",

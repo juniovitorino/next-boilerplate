@@ -8,5 +8,5 @@ export default {
 
 export const Basic: Story = (args) => <Main {...args} />
 Basic.args = {
-  title: 'Bla, bla, bla'
+  title: 'Integrações Next Boilerplate'
 }

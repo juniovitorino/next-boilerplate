@@ -1,6 +1,6 @@
 import * as st from './styles'
 
-const Main = ({ title = 'React Avançado' }) => (
+const Main = ({ title = 'Next Boilerplate' }) => (
   <main>
     <st.Title>{title}</st.Title>
   </main>
